@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://kozintsevaelena.ru</loc>
+    <lastmod>2023-12-02</lastmod>
+    <changefreq>always</changefreq>
+    <image:image>
+      <image:loc>http://kozintsevaelena.ru/img/compressor/foto-1.jpg</image:loc>
+      <!--ERROR - Object reference not set to an instance of an object.-->
+      <url>
+        <loc>http://kozintsevaelena.ru/portfolio_family.html</loc>
+        <lastmod>2023-12-02</lastmod>
+        <changefreq>always</changefreq>
+        <image:image>
+          <image:loc>http://kozintsevaelena.ru/img/family/family_1.jpg</image:loc>
+          <!--ERROR - Object reference not set to an instance of an object.-->
+          <url>
+            <loc>http://kozintsevaelena.ru/portfolio_lovestory.html</loc>
+            <lastmod>2023-12-02</lastmod>
+            <changefreq>always</changefreq>
+            <image:image>
+              <image:loc>http://kozintsevaelena.ru/img/love_story/l_1.jpg</image:loc>
+              <!--ERROR - Object reference not set to an instance of an object.-->
+              <url>
+                <loc>http://kozintsevaelena.ru/portfolio_ind.html</loc>
+                <lastmod>2023-12-02</lastmod>
+                <changefreq>always</changefreq>
+                <image:image>
+                  <image:loc>http://kozintsevaelena.ru/img/individ/ind_1.jpg</image:loc>
+                  <!--ERROR - Object reference not set to an instance of an object.-->
+                  <url>
+                    <loc>http://kozintsevaelena.ru/portfolio_main.html</loc>
+                    <lastmod>2023-12-02</lastmod>
+                    <changefreq>always</changefreq>
+                    <image:image>
+                      <image:loc>http://kozintsevaelena.ru/img/price_portfolio/img_1.jpg</image:loc>
+                      <!--ERROR - Object reference not set to an instance of an object.-->
+                      <url>
+                        <loc>http://kozintsevaelena.ru/contact.html</loc>
+                        <lastmod>2023-12-02</lastmod>
+                        <changefreq>always</changefreq>
+                      </url>
+                      <url>
+                        <loc>http://kozintsevaelena.ru/price.html</loc>
+                        <lastmod>2023-12-02</lastmod>
+                        <changefreq>always</changefreq>
+                      </url>
+                      <url>
+                        <loc>http://kozintsevaelena.ru/index.html</loc>
+                        <lastmod>2023-12-02</lastmod>
+                        <changefreq>always</changefreq>
+                        <image:image>
+                          <image:loc>http://kozintsevaelena.ru/img/carusel/img_1.jpg</image:loc>
+                          <!--ERROR - Object reference not set to an instance of an object.-->
+                        </image:image>
+                        <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+                      </url>
+                    </image:image>
+                  </url>
+                </image:image>
+              </url>
+            </image:image>
+          </url>
+        </image:image>
+      </url>
+    </image:image>
+  </url>
+</urlset>
