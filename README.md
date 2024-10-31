@@ -4,7 +4,7 @@
 
 ## Ссылка на сайт
 
-[Перейти на лендинг](v-kozintsev.github.io/kozintsevaelena.ru/)
+[Перейти на сайт](v-kozintsev.github.io/kozintsevaelena.ru/)
 
 ## Цели проекта:
 
